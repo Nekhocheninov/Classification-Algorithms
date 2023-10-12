@@ -1,4 +1,4 @@
-# Python AdaBoost & GradientBoosting
+# Python neural classification
 
 implementation of classification algorithms using neural networks in Python.
 
