@@ -20,7 +20,10 @@ Independent variables: ['sex', 'height']
 
 Coefficients: 
  [-131.0423227] [[1.15218754]]
+ 
 Coefficient of determination: 0.59
+
+---
 
 Dependent variables: ['sex']
 
@@ -28,4 +31,5 @@ Independent variables: ['sex', 'height', 'repwt']
 
 Coefficients: 
  [2.16382275] [[-5.27157052e-01  1.83931216e-04  9.70549310e-01]]
+ 
 Coefficient of determination: 0.97
