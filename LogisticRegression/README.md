@@ -10,6 +10,8 @@ Follow [this link](https://drive.google.com/file/d/1HeCtOMz_hvpXWRyZ5cn5KFYsVssR
 
 # Samples
 
+[***Dataset***](https://github.com/sdukshis/ml-intro/blob/master/datasets/Davis.csv)
+
 Dependent variables: ['sex']
 
 Independent variables: ['weight', 'height']
