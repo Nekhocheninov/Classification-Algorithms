@@ -1,14 +1,16 @@
 # Python MNIST
 
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-Open-blue?logo=google-colab)](https://drive.google.com/file/d/1PDghl7W3SJSvRViX8s3VTAgMVcFbGr6K/view?usp=sharing)
+
 Neural network classifier for competition [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) in Python.
 
-### Running the notebook
+## Running the notebook
 
 The code was written in Python across Jupyter notebooks. It was developed in Google Colab which is a free Jupyter notebook environment that allows you to run code through a browser.
 
 Follow [this link](https://drive.google.com/file/d/1PDghl7W3SJSvRViX8s3VTAgMVcFbGr6K/view?usp=sharing) to open the notepad with this code and click on Google Colaboratory.
 
-# Samples
+## Samples
 
 <img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/MNIST/img/img_1.png" width="500">
 
