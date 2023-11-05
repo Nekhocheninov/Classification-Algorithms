@@ -1,14 +1,16 @@
 # Python Titanic
 
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-Open-blue?logo=google-colab)](https://drive.google.com/file/d/11ZWbg346w_XPmWBzy9S71BhhQMPlt85U/view?usp=sharing)
+
 Logistic regression model for competition [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview) in Python.
 
-### Running the notebook
+## Running the notebook
 
 The code was written in Python across Jupyter notebooks. It was developed in Google Colab which is a free Jupyter notebook environment that allows you to run code through a browser.
 
 Follow [this link](https://drive.google.com/file/d/11ZWbg346w_XPmWBzy9S71BhhQMPlt85U/view?usp=sharing) to open the notepad with this code and click on Google Colaboratory.
 
-# Samples
+## Samples
 
 Dependent variables: ['Survived']
 
