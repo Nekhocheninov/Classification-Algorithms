@@ -16,7 +16,7 @@ Dependent variables: ['Survived']
 
 Independent variables: ['Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Cabin', 'Embarked']
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/Titanic/img/img_1.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/Titanic/img/img_1.png" width="500">
 
 Coefficients: 
  [7.62645066] [[-1.08099579 -2.48489482 -0.04232364 -0.33432514 -0.03708441  0.12367239
@@ -32,7 +32,7 @@ Dependent variables: ['Survived']
 
 Independent variables: ['Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Cabin', 'Embarked', 'Title']
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/Titanic/img/img_2.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/Titanic/img/img_2.png" width="500">
 
 Coefficients: 
  [6.57421993] [[-1.01383027 -2.19624466 -0.03653524 -0.38132683 -0.0513771   0.13707966
