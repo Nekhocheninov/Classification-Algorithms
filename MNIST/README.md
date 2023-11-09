@@ -12,9 +12,9 @@ Follow [this link](https://drive.google.com/file/d/1PDghl7W3SJSvRViX8s3VTAgMVcFb
 
 ## Samples
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/MNIST/img/img_1.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/MNIST/img/img_1.png" width="500">
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/MNIST/img/img_2.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/MNIST/img/img_2.png" width="500">
 
 ```
                precision    recall  f1-score   support
@@ -35,7 +35,7 @@ Follow [this link](https://drive.google.com/file/d/1PDghl7W3SJSvRViX8s3VTAgMVcFb
 weighted avg       0.91      0.91      0.91     42000
 ```
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/MNIST/img/img_3.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/MNIST/img/img_3.png" width="500">
 
 ```
                precision    recall  f1-score   support
@@ -56,4 +56,4 @@ weighted avg       0.91      0.91      0.91     42000
 weighted avg       0.92      0.92      0.92     42000
 ```
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/MNIST/img/img_4.png" width="900">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/MNIST/img/img_4.png" width="900">
