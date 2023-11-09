@@ -31,7 +31,7 @@ Classification accuracy for different values n_estimators:
 | 500 |	0.925926 |	1.000000 |
 | 1000 |	0.925926 |	1.000000 |
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/AdaBoost%26GradientBoosting/img/img_1.PNG" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/AdaBoost%26GradientBoosting/img/img_1.PNG" width="500">
 
 Based on the table and figure, we can conclude that the optimal value for AdaBoost and Gradient Boosting is 50 and 100; with these values, both algorithms achieve maximum accuracy.
 
