@@ -18,7 +18,7 @@ Dependent variables: ['sex']
 
 Independent variables: ['sex', 'height']
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/LinearRegression/img/img_1.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/LinearRegression/img/img_1.png" width="500">
 
 Coefficients: 
  [-131.0423227] [[1.15218754]]
