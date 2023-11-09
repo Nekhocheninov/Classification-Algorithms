@@ -18,9 +18,9 @@ Dependent variables: ['sex']
 
 Independent variables: ['weight', 'height']
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/LogisticRegression/img/img_1.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/LogisticRegression/img/img_1.png" width="500">
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/LogisticRegression/img/img_2.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/LogisticRegression/img/img_2.png" width="500">
 
 Coefficients: 
  [-58.03319918] [[0.16591461 0.27557928]]
@@ -35,9 +35,9 @@ Dependent variables: ['sex']
 
 Independent variables: ['weight', 'height', 'weight^2', 'weight*height', 'height^2']
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/LogisticRegression/img/img_3.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/LogisticRegression/img/img_3.png" width="500">
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/LogisticRegression/img/img_4.png" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/LogisticRegression/img/img_4.png" width="500">
 
 Coefficients: 
  [-0.00349398] [[-0.11224792 -0.29908018 -0.0011234   0.00250718  0.00120429]]
