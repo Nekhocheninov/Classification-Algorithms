@@ -22,15 +22,15 @@ These data are the results of a chemical analysis of wines grown in the same reg
 
 Convolutional, stochastic and multilayer neural networks with the following parameters were selected:
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/NeuralNet/img/img_4.PNG" width="500">
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/NeuralNet/img/img_5.PNG" width="500">
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/NeuralNet/img/img_6.PNG" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/NeuralNet/img/img_4.PNG" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/NeuralNet/img/img_5.PNG" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/NeuralNet/img/img_6.PNG" width="500">
 
 These neural network models perform equally well on the classification task with an accuracy of 0.4259.
 
 Convolutional neural network training schedule:
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/NeuralNet/img/img_1.PNG" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/NeuralNet/img/img_1.PNG" width="500">
 
 Stochastic neural network training schedule:
 
@@ -38,6 +38,6 @@ Stochastic neural network training schedule:
 
 Multilayer neural network training schedule:
 
-<img src="https://github.com/Nekhocheninov/ClassificationAlgorithms/blob/main/NeuralNet/img/img_3.PNG" width="500">
+<img src="https://github.com/Nekhocheninov/Classification-And-Regression-Algorithms/blob/main/NeuralNet/img/img_3.PNG" width="500">
 
 As can be seen from the figures, the convolutional neural network had constant accuracy for the test and training data, the stochastic neural network during the training process produced more accurate results for the test data set at some epochs, and the multilayer neural network produced the same result for other epochs.
